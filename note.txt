@@ -1,0 +1,9 @@
+improvements to be made in user authentication system :
+
+1: fix the issue of gui
+2: fix the issue of id creation with existing username
+3: fix the issue of password hashing
+4: fix the issue of error handling as much precise as possible
+
+
+NOTE: Review all the pipelines thoroughly
